@@ -1,4 +1,3 @@
-```markdown
 # Smart Habit Tracker with Daily Reminders
 
 ## Overview
